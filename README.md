@@ -11,11 +11,11 @@ Welcome to the repository of our Single Vendor E-Commerce website! This project 
 
 ### Frontend
 - **React**: Declarative and efficient library for building dynamic user interfaces.
-- **Ant Design**: Modern design system providing high-quality components.
+<!--- **Ant Design**: Modern design system providing high-quality components.-->
 - **Responsive Design**: Optimized for various screen sizes for a smooth experience.
-- **React Router**: Simplified navigation and routing.
+<!--- **React Router**: Simplified navigation and routing.-->
 
 ### Backend
 - **Node.js & Express**: Scalable server-side framework for building fast APIs.
 - **MySQL Database**: Reliable and structured data storage.
-- **JWT Authentication**: Secure token-based user authentication.
+<!--- **JWT Authentication**: Secure token-based user authentication.-->
